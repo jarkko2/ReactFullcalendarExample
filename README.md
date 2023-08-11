@@ -3,7 +3,7 @@
 
 This is an example of how to implement fullCalendar on React and storing data to Firebase
 
-[![Video](https://img.youtube.com/vi/ZxevzO-NT34/0.jpg)](https://www.youtube.com/watch?v=ZxevzO-NT34)
+[![Video](https://img.youtube.com/vi/oRH_7dF1bZI/0.jpg)](https://www.youtube.com/watch?v=oRH_7dF1bZI)
 
 # Installing
 1. Clone the project
