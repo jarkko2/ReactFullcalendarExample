@@ -1,0 +1,83 @@
+.FullCalendar{
+    margin: 10px 300px 10px 300px
+}
+.CustomChart{
+    margin: 10px 300px 10px 300px;
+    height: 50rem;
+}
+
+.navBar{
+    display: flex;
+    justify-content:space-between;
+    border-color: black;
+    border-bottom: 2px solid;
+    background-color : #089ae2;
+}
+
+.navBarLeft{
+    margin: 5px;
+}
+
+.navBarRight{
+    margin: 5px;
+}
+
+.navigationItem{
+    display: inline;
+    padding: 8px;
+    color: white;
+    font-weight: 500;
+    font-size: 24px;
+    font-style: normal;
+    text-decoration: none;
+}
+
+.chartNav{
+    display: inline;
+    height: 50px;
+    margin: 5px;
+    padding: 5px;
+}
+
+/* Chart buttons */
+
+input[type="date"]{
+    height: 35px;
+    width: 125px;
+    font-size: large;
+    margin-top: 5px;
+}
+
+.customButton{
+    height: 40px;
+    width: 125px;
+    font-size: large;
+}
+
+.authentication{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 25%;
+    padding: 10px;
+}
+
+.authenticationItem{
+    padding: 10px;
+}
+
+.hidden { display:none; }
+
+@media only screen and (max-width: 1000px) {
+    .FullCalendar{
+        margin: 10px 10px 10px 10px
+    }
+    .CustomChart{
+        margin: 10px 10px 10px 10px;
+        height: 50rem;
+        border-color: black;
+        border: 1px solid;
+        border-radius: 1em;
+    }
+}
